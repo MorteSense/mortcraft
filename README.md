@@ -4,6 +4,11 @@ Welcome to the documentation for the mortcraft hardware system. This document pr
 ## System Overview
 The mortcraft hardware system is designed to provide end-to-end functionality, connecting seamlessly to both the backend server and user interface. It consists of various hardware components that work in tandem to achieve the system's goals.
 
+## PCB Diagram
+
+![image](https://github.com/MorteSense/mortcraft/assets/22685770/00680e6b-b9ef-44ee-8653-5787f1bee11d)
+
+
 ## Hardware Components
 Listed below are the key hardware components of the mortcraft system:
 
