@@ -18,3 +18,12 @@ The mortcraft hardware system establishes a connection to the backend server to 
 Communication Protocol: Specify the protocol used for communication (e.g., HTTP, MQTT, etc.).
 Endpoint(s): Provide the endpoints or URLs used to connect to the backend server.
 Security Measures: Detail any encryption or authentication methods in place to secure the connection.
+
+## Notes
+
+1. Raspberry Pi Pico W Microcontroller
+2. CQRobot 5.8GHz Microwave Motion Sensor
+3. Red and Green Bulbs
+4. 100 Ohm Resistors
+5. Fritzing Circuit Design Software
+6. Solidworks (or any CAD Program)
